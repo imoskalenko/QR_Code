@@ -3,8 +3,7 @@
 - [My process]
   - [Built with] HTML, CSS, FlexBox
   - [What I learned] FlexBox
-  - [Continued development] Will do QR generator
-- [Author] Oleksandr Moskalenko
+  - [Continued development] Will do QR generator -[Author] Oleksandr Moskalenko
 
 ### Links
 
@@ -18,7 +17,10 @@
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+## Plans for next steps
+
+- Add QR code generator
+- Add links to CV and generate QR code by CV link
 
 ## Author
 
